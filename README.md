@@ -1,7 +1,7 @@
 <h1>Deploy</h1>
 <a href="https://positive-project.netlify.app/">Visite o projeto aqui</a>
 
-<h1>Landing Page Positive Project</h1>
+<h1>Positive Project</h1>
 
 <img src="https://raw.githubusercontent.com/LucMLC/Projeto-positive/master/Captura%20de%20tela%202024-02-12%20115336.png?token=GHSAT0AAAAAACNELNXDU3MOQHXRUAHB5LHUZOKGIXA" alt="Positive Project Logo"  width="50%">
 
