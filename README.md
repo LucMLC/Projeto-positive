@@ -3,7 +3,9 @@
 
 <h1>Landing Page Positive Project</h1>
 
-<img src="https://positive-project.netlify.app/images/logo.png" alt="Positive Project Logo">
+<img src="https://raw.githubusercontent.com/LucMLC/Projeto-positive/master/Captura%20de%20tela%202024-02-12%20115336.png?token=GHSAT0AAAAAACNELNXDU3MOQHXRUAHB5LHUZOKGIXA" alt="Positive Project Logo">
+
+<img src="https://raw.githubusercontent.com/LucMLC/Projeto-positive/master/Captura%20de%20tela%202024-02-12%20115402.png?token=GHSAT0AAAAAACNELNXCCYQA4MRISPN6WBDUZOKGI2Q" alt="Positive Project Logo">
 
 <p>Bem-vindo ao repositório Landing Page Positive Project! Esta página inicial foi projetada para promover o
 pensamento positivo e o bem-estar mental, fornecendo diversos recursos e atividades.</p>
