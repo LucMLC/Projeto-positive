@@ -41,7 +41,7 @@ diariamente, o que pode aumentar a felicidade e a satisfação com a vida.</li>
 <p>Atualmente, este projeto não aceita contribuições externas, pois se trata de uma página estática.</p>
 
 <h2>Autor</h2>
-<p>Esta página inicial foi desenvolvida por <a href="https://github.com/LucMLC">Martinez Engine Software</a>.</p>
+<p>Esta página inicial foi desenvolvida por <a href="https://github.com/LucMLC">Martinez Software Engineer</a>.</p>
 
 <h2>Licença</h2>
 
